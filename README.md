@@ -1,0 +1,1 @@
+# StockSynthesis-QGAN
